@@ -3,4 +3,4 @@ This application lists the current number of confirmed cases reported across the
 
 <b>Corona Virus Tracker Application:-</b>
 
-![corona_tracker](https://github.com/sumedh11n/Employee-Record-Management-CRUD/blob/master/corona-tracker.JPG)
+![corona_tracker](https://github.com/sumedh11n/coronavirus-tracker-app/blob/master/corona-tracker.JPG)
